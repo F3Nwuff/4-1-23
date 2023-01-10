@@ -21,15 +21,15 @@ there are also 4 states that are possible:
 - (11) = both lights on
 
 here are the visualizations of the FSM system:
-# FSM Model
-![state](img/FSMdiagram.jpeg)
-#### truth table
+# FSM State
+![state](https://github.com/F3Nwuff/4-1-23/blob/master/img/FSMdiagram.jpeg)
+# truth table
 the truth table of the diagram:
 ![truth_table](img/truth-table.png)
 the table simplified:
 ![truth_table](img/truth-table2.png)
 
-#### karnaugh map and combinational boolean equations
+# karnaugh map and combinational boolean equations
 then, i made a karnaugh map and its combinational boolean equations:
 
 ![karnaugh](img/karnaugh1.jpeg)
