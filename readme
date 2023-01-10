@@ -22,7 +22,7 @@ there are also 4 states that are possible:
 
 here are the visualizations of the FSM system:
 #### state diagram
-![state_diagram](img/FSMdiagram.jpeg)
+![state_diagram](https://github.com/F3Nwuff/4-1-23/blob/master/img/FSMdiagram.jpeg?raw=true)
 #### truth table
 the truth table of the diagram:
 ![truth_table](img/truth-table.png)
