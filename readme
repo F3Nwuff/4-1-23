@@ -21,8 +21,8 @@ there are also 4 states that are possible:
 - (11) = both lights on
 
 here are the visualizations of the FSM system:
-#### state diagram
-![Space N = 1000](img/FSMdiagram.jpeg)
+# FSM Model
+![state](img/FSMdiagram.jpeg)
 #### truth table
 the truth table of the diagram:
 ![truth_table](img/truth-table.png)
