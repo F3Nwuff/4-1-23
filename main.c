@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "mylib/mylib.h"
 
+//test
 int main(void) {
     int onoff, current1, current2, choice1, choice2;
     int nextstate[2];
